@@ -38,3 +38,5 @@ If you're running the app locally, the IP will likely be 127.0.0.1 or localhost,
 If the terminal shows a different IP or port, use that instead.
 ## Step 4: Start using the visualization
 Once the app is open in your browser, you can interact with the visualization and explore the features provided by the Dash app.
+## Extras
+We include the main code for the ata generation in ProcessingAndData.ipynb
